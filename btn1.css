@@ -1,0 +1,21 @@
+.btns input {
+  display: none;
+}
+
+.blue1 {
+  background-color: cornflowerblue;
+  border-bottom: 5px solid cornflowerblue;
+}
+
+.blue1:active {
+  border-bottom: 2px solid cornflowerblue;
+}
+
+.red1 {
+  background-color: firebrick;
+  border-bottom: 5px solid firebrick;
+}
+
+.red1:active {
+  border-bottom: 2px solid firebrick;
+}
